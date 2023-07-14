@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.kosasih.streame.\
+    config.TestContainersSpringContextCustomizerFactory,com.kosasih.streame.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.kosasih.streame.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
