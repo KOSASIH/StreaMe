@@ -117,7 +117,7 @@ Thank you for contributing to StreaMe!
 
 ## License
 
-StreaMe is licensed under the [MIT License](https://opensource.org/licenses/MIT). You can find the full license text in the [LICENSE](LICENSE) file.
+StreaMe is licensed under the [MIT License](https://opensource.org/licenses/MIT). You can find the full license text in the [LICENSE](https://github.com/KOSASIH/StreaMe/blob/main/LICENSE) file.
 
 Certainly! Here are some additional sections you can add to the README file for StreaMe:
 
